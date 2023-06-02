@@ -12,10 +12,11 @@ section {
   padding: 50px 100px 20px 100px;
   width: 70%;
   height: 500px;
-  background-color: rgba(0, 0, 0, 0.435);
+  background-color: rgba(30, 30, 30, 0.435);
   border-radius: 20px;
   color: white;
   box-shadow: 4px 4px 8px rgba(69, 69, 69, 0.435);
+  backdrop-filter: blur(2px);
 }
 
 h1 {

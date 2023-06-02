@@ -34,7 +34,7 @@ const langs = {
   ko: {
     title: "강아지 사람 나이 계산기",
     weightLabel: "강아지 몸무게 선택",
-    dateLabel: "강아지 몸무게 선택",
+    dateLabel: "강아지 생일 선택",
     button: "계산하기",
   },
   en: {
