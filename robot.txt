@@ -1,4 +1,4 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
 Disallow:
-Sitemap: http://www.dogage.net/sitemap.xml
+Sitemap: https://dogage.net/sitemap.xml
